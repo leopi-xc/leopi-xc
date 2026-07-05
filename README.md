@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @13-xc
--  I’m interested in python,fliper zero ,linux,raspi pi
--  I’m currently learning kali linux,java
 
 <!---
 leopi-xc/leopi-xc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
